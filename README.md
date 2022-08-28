@@ -3,3 +3,4 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=quiode&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=quiode&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
+<!-- inspired by https://github.com/aveek-saha -->
